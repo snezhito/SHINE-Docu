@@ -1,6 +1,8 @@
 ## 1.1 SHINE XSA Architecture
 The architecture for SHINE for XSA is represented on the following image:
 
+![image](https://user-images.githubusercontent.com/43438237/123608588-2ad27500-d7ff-11eb-9eea-04ffd7863dd0.png)
+
 This application contains the following micro services:
 - core-node
 - core-xsjs
